@@ -5,5 +5,5 @@ I used Adaptyv_contacts_check.py to create an attribute file (contacts_round2_te
 For example, the figure below shows the contact frequency for all Round 2 designs. (Contact cutoff = 10 Å between CA atoms)
 
 <p align="center">
-  <img src=".EGFR_Adaptyv_Round2_contact_frequency.png" alt="EGFR structure (from 724928537.DBZ6___A.pdb) colored by contact frequency" width="500px" align="middle"/>
+  <img src="./EGFR_Adaptyv_Round2_contact_frequency.png" alt="EGFR structure (from 724928537.DBZ6___A.pdb) colored by contact frequency" width="800px" align="middle"/>
 </p>
