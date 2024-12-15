@@ -75,9 +75,3 @@ with open(output_chimera_attribute_file, 'w') as outfile:
 		outfile.write(line)
 
 
-#testing:
-print(len(full_contacts_matrix))
-print(len(full_contacts_matrix[0]))
-print(list(full_contacts_matrix[0]))
-
-
